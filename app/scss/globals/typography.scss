@@ -1,0 +1,29 @@
+@use '../util' as *;
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+    line-height: 1.1;
+}
+
+h1 {
+    font-size: rem(26);
+    margin-bottom: rem(3);
+}
+
+h2 {
+    font-size: rem(24);
+    margin-bottom: rem(24);
+    color: var(--text-color2);
+}
+
+a,
+a:visited,
+a:active {
+    text-decoration: none;
+}
+
+ul, ol {
+    list-style: none;
+}
