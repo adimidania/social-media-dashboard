@@ -10,7 +10,7 @@ For this one, I've decided using SASS instead of CSS. So I'll drop some notes be
 
 ## Notes
 
-- Here's a quick [Summary](https://danialearns.notion.site/SASS-f860ee7ea4f0476ea9efefe5b42f9777) from the freecodecamp SASS course that I took right before starting the challenge.
+- Here's a quick [Summary](https://danialearns.notion.site/SASS-f860ee7ea4f0476ea9efefe5b42f9777.) from the freecodecamp SASS course that I took right before starting the challenge.
 
 - SCSS folder contains 3 sub-folders, this was done for the sake of organization, you can clearly see that we have a sub-folder for utilities (breakpoints and functions that we will be using), globals contains some stylings that will be using, and finally components contains the styling our components such as cards etc. This makes it easy to navigate!
 
@@ -32,4 +32,4 @@ For this one, I've decided using SASS instead of CSS. So I'll drop some notes be
 
 - Just one more command `npm install gulp gulp-babel gulp-sass gulp-postcss gulp-terser`
 
-- **Have fun building!** 🚀
+**Had fun building!** 🚀
