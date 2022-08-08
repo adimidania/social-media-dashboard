@@ -16,7 +16,7 @@ For this one, I've decided using SASS instead of CSS. So I'll drop some notes be
 
 - The `_index.scss` file is responsible for loading all the scss files within the given folder.
 
-- [BEM](https://sparkbox.com/foundry/bem_by_example#:~:text=BEM%20(which%20stands%20for%20Block,read%2C%20understand%2C%20and%20scale) (Block-Element-Modifier) is a naming convention standard for CSS class names. It has fairly wide adoption and is immensely useful in writing CSS that is easier to read, understand, and scale.
+- I followed up with this [tutorial](https://www.youtube.com/watch?v=-3WV1CjeF10&list=PLUWqFDiirlsu5az5EIyxe8ZddyNO_kDuP&index=5), I found it pretty helpful to understand scss, BEM, accessibility issues, and toggling.
 
 ## Installation
 
